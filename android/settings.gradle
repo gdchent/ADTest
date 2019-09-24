@@ -1,0 +1,3 @@
+rootProject.name = 'ADTest'
+
+include ':app'
